@@ -3,8 +3,8 @@
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 ## Author
-    name: Juan Gomez
-    url: https://juancgomezs.github.io/
+Name: Juan Gomez
+[url:](https://juancgomezs.github.io/)
 
 ## Steps for create library
 
@@ -35,7 +35,7 @@ If the build is successful, it will create a dist directory.
        cd dist
        npm pack
 
-Your library will be available on npmjs.com.
+Your library will be available [on](npmjs.com.)
 
 ## To use the library: Install your library using npm:
 
